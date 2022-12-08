@@ -1,0 +1,40 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color: aliceblue;
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color: aliceblue;
+}
+
+input
+{
+	margin: 10px;
+}
+.display_name_with_commas
+{
+	border: 1px solid rgb(149, 247, 237);
+    padding: 10px;
+	background-color: rgb(149, 247, 237);
+	border-radius: 10px;
+    width: 50%;
+}
+
+#display_name_without_commas
+{
+	border: 1px solid rgb(144, 216, 235);
+    padding: 10px;
+    background-color: rgb(144, 216, 235);
+	border-radius: 10px;
+    width: 50%;
+}
+
+ html 
+ {
+	background-color:rgb(182, 218, 249);
+ }
